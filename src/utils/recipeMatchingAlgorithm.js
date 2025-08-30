@@ -189,7 +189,7 @@ export const normalizeIngredient = (ingredient) => {
   return ingredient
     .toLowerCase()
     .trim()
-    .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '')
+    .replace(/[.,/#!$%^&*;:{}=\-_`~()]/g, '')
     .replace(/\s+/g, ' ')
     .replace(/s$/, '') // Remove plural 's'
     .trim();
