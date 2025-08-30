@@ -9,7 +9,6 @@ import {
 } from './components';
 import { useRecipeSearch } from './hooks/useRecipeSearch';
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { useRecipeContext as _useRecipeContext } from './context/RecipeContext';
 import { useUserPreferences } from './context/UserPreferencesContext';
 
 function App() {
