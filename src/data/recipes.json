@@ -1,0 +1,1108 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Chicken Tikka Masala",
+      "description": "Creamy Indian curry with marinated chicken in spiced tomato sauce",
+      "image": "https://littleferrarokitchen.com/wp-content/uploads/2023/02/easy-chicken-tikka-masala-with-coconut-milk.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 60,
+      "servings": 6,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "chicken breast", "amount": "2", "unit": "lbs"},
+        {"name": "yogurt", "amount": "1", "unit": "cup"},
+        {"name": "garam masala", "amount": "2", "unit": "tbsp"},
+        {"name": "cumin", "amount": "1", "unit": "tsp"},
+        {"name": "paprika", "amount": "1", "unit": "tsp"},
+        {"name": "crushed tomatoes", "amount": "1", "unit": "can"},
+        {"name": "heavy cream", "amount": "1", "unit": "cup"},
+        {"name": "onions", "amount": "1", "unit": "large"},
+        {"name": "garlic", "amount": "4", "unit": "cloves"},
+        {"name": "ginger", "amount": "1", "unit": "tbsp"},
+        {"name": "basmati rice", "amount": "1.5", "unit": "cups"}
+      ],
+      "instructions": [
+        "Cut chicken into chunks and marinate with yogurt and half the spices for 30 minutes",
+        "Cook basmati rice according to package instructions",
+        "Sauté diced onion, garlic, and ginger until soft",
+        "Add remaining spices and cook 1 minute",
+        "Add crushed tomatoes and simmer 10 minutes",
+        "In separate pan, cook marinated chicken until done",
+        "Add chicken to tomato sauce",
+        "Stir in heavy cream and simmer 5 minutes",
+        "Serve over basmati rice with cilantro"
+      ],
+      "nutrition": {
+        "calories": 485,
+        "protein": 38,
+        "carbs": 42,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 520
+      },
+      "tips": [
+        "Marinate chicken for deeper flavor",
+        "Adjust spice level to taste"
+      ],
+      "substitutions": [
+        {"ingredient": "heavy cream", "substitute": "coconut cream"}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dal Tadka (Spiced Lentils)",
+      "description": "Classic Indian comfort food with yellow lentils and aromatic tempering",
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Dal-Tadka.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Easy",
+      "cookingTime": 30,
+      "servings": 4,
+      "dietary": ["Vegetarian", "Vegan", "High-Protein"],
+      "ingredients": [
+        {"name": "yellow lentils", "amount": "1", "unit": "cup"},
+        {"name": "turmeric", "amount": "0.5", "unit": "tsp"},
+        {"name": "onions", "amount": "1", "unit": "medium"},
+        {"name": "tomatoes", "amount": "2", "unit": "medium"},
+        {"name": "garlic", "amount": "4", "unit": "cloves"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "cumin seeds", "amount": "1", "unit": "tsp"},
+        {"name": "mustard seeds", "amount": "0.5", "unit": "tsp"},
+        {"name": "ghee", "amount": "2", "unit": "tbsp"},
+        {"name": "cilantro", "amount": "0.25", "unit": "cup"}
+      ],
+      "instructions": [
+        "Wash and cook lentils with turmeric in 3 cups water until soft",
+        "Heat ghee in a pan for tempering",
+        "Add cumin and mustard seeds, let them splutter",
+        "Add diced onions and cook until golden",
+        "Add garlic, ginger, and tomatoes, cook until soft",
+        "Pour this tempering over cooked lentils",
+        "Simmer for 10 minutes, garnish with cilantro",
+        "Serve hot with rice or roti"
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 12,
+        "carbs": 32,
+        "fat": 6,
+        "fiber": 8,
+        "sugar": 4,
+        "sodium": 15
+      },
+      "tips": [
+        "Mash some lentils for creamy consistency",
+        "Adjust water for desired thickness"
+      ],
+      "substitutions": [
+        {"ingredient": "ghee", "substitute": "oil for vegan version"}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Palak Paneer",
+      "description": "Creamy spinach curry with soft cottage cheese cubes",
+      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2023/02/palak-paneer-recipe.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 35,
+      "servings": 4,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "paneer", "amount": "250", "unit": "g"},
+        {"name": "spinach", "amount": "500", "unit": "g"},
+        {"name": "onions", "amount": "2", "unit": "medium"},
+        {"name": "garlic", "amount": "6", "unit": "cloves"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "green chilies", "amount": "2", "unit": "pieces"},
+        {"name": "garam masala", "amount": "1", "unit": "tsp"},
+        {"name": "cumin", "amount": "1", "unit": "tsp"},
+        {"name": "heavy cream", "amount": "0.25", "unit": "cup"},
+        {"name": "oil", "amount": "2", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Blanch spinach in boiling water, then blend to smooth paste",
+        "Cut paneer into cubes and lightly fry until golden",
+        "Heat oil and sauté onions until golden brown",
+        "Add garlic, ginger, green chilies and cook 2 minutes",
+        "Add spinach paste and all spices",
+        "Cook for 10 minutes, add paneer and cream",
+        "Simmer for 5 minutes and serve hot",
+        "Garnish with cream swirl and serve with naan"
+      ],
+      "nutrition": {
+        "calories": 285,
+        "protein": 16,
+        "carbs": 12,
+        "fat": 20,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 320
+      },
+      "tips": [
+        "Don't overcook spinach to retain color",
+        "Add ice water while blanching spinach"
+      ],
+      "substitutions": [
+        {"ingredient": "paneer", "substitute": "tofu for vegan version"}
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chicken Biryani",
+      "description": "Aromatic layered rice dish with spiced chicken and fragrant basmati",
+      "image": "https://www.cookwithnabeela.com/wp-content/uploads/2025/01/ChickenBiryani.webp",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 90,
+      "servings": 6,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "chicken", "amount": "1", "unit": "kg"},
+        {"name": "basmati rice", "amount": "2", "unit": "cups"},
+        {"name": "yogurt", "amount": "0.5", "unit": "cup"},
+        {"name": "onions", "amount": "3", "unit": "large"},
+        {"name": "garlic paste", "amount": "2", "unit": "tbsp"},
+        {"name": "ginger paste", "amount": "2", "unit": "tbsp"},
+        {"name": "biryani masala", "amount": "2", "unit": "tbsp"},
+        {"name": "saffron", "amount": "1", "unit": "pinch"},
+        {"name": "ghee", "amount": "4", "unit": "tbsp"},
+        {"name": "mint leaves", "amount": "0.5", "unit": "cup"},
+        {"name": "cilantro", "amount": "0.5", "unit": "cup"}
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, ginger-garlic paste, and spices for 2 hours",
+        "Soak basmati rice for 30 minutes, then parboil with whole spices",
+        "Deep fry sliced onions until golden brown and crispy",
+        "Cook marinated chicken until 70% done",
+        "Layer rice and chicken alternately in heavy-bottomed pot",
+        "Top with fried onions, mint, cilantro, and saffron soaked in milk",
+        "Cover with foil and lid, cook on high heat for 3 minutes",
+        "Reduce heat and cook for 45 minutes on low heat",
+        "Let it rest for 10 minutes before serving"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 58,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 680
+      },
+      "tips": [
+        "Use aged basmati rice for best results",
+        "Don't lift the lid during cooking process"
+      ],
+      "substitutions": [
+        {"ingredient": "chicken", "substitute": "mutton or vegetables"}
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chana Masala",
+      "description": "Spicy and tangy chickpea curry with onion-tomato gravy",
+      "image": "https://as2.ftcdn.net/v2/jpg/13/34/54/89/1000_F_1334548917_TNc9aHY9KT3t2JYqM0RHJPyw3pnmT9VB.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 40,
+      "servings": 4,
+      "dietary": ["Vegetarian", "Vegan", "High-Protein"],
+      "ingredients": [
+        {"name": "chickpeas", "amount": "2", "unit": "cans"},
+        {"name": "onions", "amount": "2", "unit": "large"},
+        {"name": "tomatoes", "amount": "3", "unit": "medium"},
+        {"name": "garlic", "amount": "6", "unit": "cloves"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "coriander powder", "amount": "2", "unit": "tsp"},
+        {"name": "cumin powder", "amount": "1", "unit": "tsp"},
+        {"name": "garam masala", "amount": "1", "unit": "tsp"},
+        {"name": "amchur", "amount": "1", "unit": "tsp"},
+        {"name": "oil", "amount": "3", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Heat oil and sauté onions until golden brown",
+        "Add garlic and ginger, cook for 2 minutes",
+        "Add tomatoes and cook until they break down",
+        "Add all spices and cook for 2 minutes",
+        "Add drained chickpeas and mix well",
+        "Add water as needed and simmer for 15 minutes",
+        "Garnish with cilantro and serve hot",
+        "Best served with bhature or rice"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 14,
+        "carbs": 45,
+        "fat": 8,
+        "fiber": 12,
+        "sugar": 8,
+        "sodium": 580
+      },
+      "tips": [
+        "Soak dried chickpeas overnight for better texture",
+        "Mash some chickpeas for thicker gravy"
+      ],
+      "substitutions": [
+        {"ingredient": "amchur", "substitute": "lemon juice"}
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Butter Chicken",
+      "description": "Rich and creamy tomato-based chicken curry with aromatic spices",
+      "image": "https://thehappyfoodie.co.uk/wp-content/uploads/2023/03/Butter_Chicken-1024x1536.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 45,
+      "servings": 4,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "chicken", "amount": "750", "unit": "g"},
+        {"name": "yogurt", "amount": "0.5", "unit": "cup"},
+        {"name": "tomatoes", "amount": "4", "unit": "large"},
+        {"name": "onions", "amount": "2", "unit": "medium"},
+        {"name": "heavy cream", "amount": "0.5", "unit": "cup"},
+        {"name": "butter", "amount": "3", "unit": "tbsp"},
+        {"name": "garam masala", "amount": "1", "unit": "tbsp"},
+        {"name": "kashmiri red chili", "amount": "1", "unit": "tsp"},
+        {"name": "garlic", "amount": "8", "unit": "cloves"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "cashews", "amount": "10", "unit": "pieces"}
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, ginger-garlic paste for 30 minutes",
+        "Blanch and puree tomatoes with cashews",
+        "Cook marinated chicken until done, set aside",
+        "Heat butter and sauté onions until golden",
+        "Add tomato puree and cook until oil separates",
+        "Add spices and cooked chicken",
+        "Simmer for 10 minutes, add cream",
+        "Garnish with cilantro and serve with naan"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 18,
+        "fat": 26,
+        "fiber": 3,
+        "sugar": 12,
+        "sodium": 450
+      },
+      "tips": [
+        "Use tomato puree for smoother gravy",
+        "Add sugar if tomatoes are too tangy"
+      ],
+      "substitutions": [
+        {"ingredient": "heavy cream", "substitute": "coconut cream"}
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Aloo Gobi",
+      "description": "Dry curry with potatoes and cauliflower seasoned with turmeric and spices",
+      "image": "https://ministryofcurry.com/wp-content/uploads/2022/04/Aloo-Gobi-4.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Easy",
+      "cookingTime": 30,
+      "servings": 4,
+      "dietary": ["Vegetarian", "Vegan"],
+      "ingredients": [
+        {"name": "potatoes", "amount": "3", "unit": "medium"},
+        {"name": "cauliflower", "amount": "1", "unit": "head"},
+        {"name": "onions", "amount": "1", "unit": "medium"},
+        {"name": "tomatoes", "amount": "2", "unit": "medium"},
+        {"name": "turmeric", "amount": "1", "unit": "tsp"},
+        {"name": "coriander powder", "amount": "1", "unit": "tsp"},
+        {"name": "cumin seeds", "amount": "1", "unit": "tsp"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "green chilies", "amount": "2", "unit": "pieces"},
+        {"name": "oil", "amount": "3", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Cut potatoes and cauliflower into bite-sized pieces",
+        "Heat oil and add cumin seeds",
+        "Add diced onions and cook until golden",
+        "Add ginger, green chilies and cook for 1 minute",
+        "Add potatoes and cauliflower, mix well",
+        "Add turmeric, coriander powder and salt",
+        "Cover and cook for 15-20 minutes",
+        "Add tomatoes in last 5 minutes and serve hot"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 5,
+        "carbs": 32,
+        "fat": 6,
+        "fiber": 6,
+        "sugar": 6,
+        "sodium": 25
+      },
+      "tips": [
+        "Don't add water - vegetables cook in their own moisture",
+        "Stir gently to avoid breaking vegetables"
+      ],
+      "substitutions": [
+        {"ingredient": "potatoes", "substitute": "sweet potatoes"}
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Rajma Masala",
+      "description": "Kidney bean curry in spiced tomato gravy, popular in North India",
+      "image": "https://www.playfulcooking.com/wp-content/uploads/2024/01/Rajma-masala-02.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 50,
+      "servings": 4,
+      "dietary": ["Vegetarian", "High-Protein"],
+      "ingredients": [
+        {"name": "kidney beans", "amount": "1", "unit": "cup"},
+        {"name": "onions", "amount": "2", "unit": "large"},
+        {"name": "tomatoes", "amount": "3", "unit": "medium"},
+        {"name": "garlic", "amount": "6", "unit": "cloves"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "cumin powder", "amount": "1", "unit": "tsp"},
+        {"name": "coriander powder", "amount": "2", "unit": "tsp"},
+        {"name": "garam masala", "amount": "1", "unit": "tsp"},
+        {"name": "red chili powder", "amount": "1", "unit": "tsp"},
+        {"name": "bay leaves", "amount": "2", "unit": "pieces"}
+      ],
+      "instructions": [
+        "Soak kidney beans overnight, pressure cook until soft",
+        "Heat oil and add bay leaves",
+        "Add diced onions and cook until golden brown",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Add tomatoes and cook until they break down",
+        "Add all spices and cook for 2 minutes",
+        "Add cooked rajma with cooking liquid",
+        "Simmer for 20 minutes until thick",
+        "Serve hot with rice"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 18,
+        "carbs": 52,
+        "fat": 6,
+        "fiber": 16,
+        "sugar": 8,
+        "sodium": 480
+      },
+      "tips": [
+        "Cook beans until very soft for better texture",
+        "Mash some beans to thicken gravy"
+      ],
+      "substitutions": [
+        {"ingredient": "kidney beans", "substitute": "black beans"}
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Chicken Curry",
+      "description": "Home-style chicken curry with onion-tomato base and aromatic spices",
+      "image": "https://kitchenofdebjani.com/wp-content/uploads/2023/04/easy-indian-chicken-curry-Recipe-for-beginners-Debjanir-rannaghar.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 45,
+      "servings": 4,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "chicken", "amount": "1", "unit": "kg"},
+        {"name": "onions", "amount": "3", "unit": "large"},
+        {"name": "tomatoes", "amount": "2", "unit": "large"},
+        {"name": "yogurt", "amount": "0.5", "unit": "cup"},
+        {"name": "garlic", "amount": "8", "unit": "cloves"},
+        {"name": "ginger", "amount": "2", "unit": "inch"},
+        {"name": "turmeric", "amount": "0.5", "unit": "tsp"},
+        {"name": "red chili powder", "amount": "2", "unit": "tsp"},
+        {"name": "coriander powder", "amount": "1", "unit": "tbsp"},
+        {"name": "garam masala", "amount": "1", "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cut chicken into medium pieces",
+        "Heat oil and fry onions until golden brown",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Add chicken pieces and cook until they change color",
+        "Add tomatoes and all spices",
+        "Cook until tomatoes break down completely",
+        "Add yogurt and cook for 15 minutes",
+        "Add water if needed and simmer until chicken is cooked",
+        "Garnish with cilantro and serve"
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 42,
+        "carbs": 15,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 420
+      },
+      "tips": [
+        "Fry onions until deep golden for rich flavor",
+        "Cook on low heat for tender chicken"
+      ],
+      "substitutions": [
+        {"ingredient": "chicken", "substitute": "mutton or lamb"}
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Samosa",
+      "description": "Crispy deep-fried pastry filled with spiced potato and pea mixture",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&h=300&fit=crop",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 60,
+      "servings": 8,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "all-purpose flour", "amount": "2", "unit": "cups"},
+        {"name": "potatoes", "amount": "4", "unit": "large"},
+        {"name": "peas", "amount": "0.5", "unit": "cup"},
+        {"name": "cumin seeds", "amount": "1", "unit": "tsp"},
+        {"name": "coriander seeds", "amount": "1", "unit": "tsp"},
+        {"name": "garam masala", "amount": "1", "unit": "tsp"},
+        {"name": "green chilies", "amount": "3", "unit": "pieces"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "oil for frying", "amount": "2", "unit": "cups"},
+        {"name": "ghee", "amount": "2", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Make dough with flour, ghee, and water, rest for 30 minutes",
+        "Boil and mash potatoes coarsely",
+        "Heat oil, add cumin seeds and spices",
+        "Add mashed potatoes, peas, and seasonings",
+        "Cool the filling completely",
+        "Roll dough into oval shapes, cut in half",
+        "Fill with potato mixture and seal edges",
+        "Deep fry until golden brown and crispy",
+        "Serve hot with chutney"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 6,
+        "carbs": 38,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 380
+      },
+      "tips": [
+        "Seal edges properly to prevent opening while frying",
+        "Keep filling dry to avoid soggy samosas"
+      ],
+      "substitutions": [
+        {"ingredient": "potatoes", "substitute": "mixed vegetables"}
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Tandoori Chicken",
+      "description": "Smoky marinated chicken cooked in traditional clay oven style",
+      "image": "https://www.hungrylankan.com/wp-content/uploads/2022/12/dosa-and-sambar-1.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 120,
+      "servings": 4,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "chicken", "amount": "1", "unit": "whole"},
+        {"name": "yogurt", "amount": "1", "unit": "cup"},
+        {"name": "garlic paste", "amount": "2", "unit": "tbsp"},
+        {"name": "ginger paste", "amount": "2", "unit": "tbsp"},
+        {"name": "tandoori masala", "amount": "3", "unit": "tbsp"},
+        {"name": "red chili powder", "amount": "1", "unit": "tsp"},
+        {"name": "turmeric", "amount": "0.5", "unit": "tsp"},
+        {"name": "lemon juice", "amount": "2", "unit": "tbsp"},
+        {"name": "oil", "amount": "2", "unit": "tbsp"},
+        {"name": "salt", "amount": "1", "unit": "tsp"}
+      ],
+      "instructions": [
+        "Clean chicken and make deep cuts all over",
+        "Mix all marinade ingredients in a bowl",
+        "Coat chicken thoroughly with marinade",
+        "Refrigerate for at least 2 hours or overnight",
+        "Preheat oven to 450°F (230°C)",
+        "Place chicken on wire rack over baking tray",
+        "Cook for 45-50 minutes until cooked through",
+        "Baste with oil halfway through cooking",
+        "Serve hot with onion salad and mint chutney"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 48,
+        "carbs": 8,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 6,
+        "sodium": 680
+      },
+      "tips": [
+        "Marinate longer for deeper flavor penetration",
+        "Use food coloring for authentic red color"
+      ],
+      "substitutions": [
+        {"ingredient": "whole chicken", "substitute": "chicken pieces"}
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Masala Dosa",
+      "description": "Crispy rice crepe filled with spiced potato curry, South Indian specialty",
+      "image": "https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__700_0_0_0_auto.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 480,
+      "servings": 6,
+      "dietary": ["Vegetarian", "Vegan"],
+      "ingredients": [
+        {"name": "rice", "amount": "3", "unit": "cups"},
+        {"name": "urad dal", "amount": "1", "unit": "cup"},
+        {"name": "fenugreek seeds", "amount": "0.5", "unit": "tsp"},
+        {"name": "potatoes", "amount": "4", "unit": "large"},
+        {"name": "onions", "amount": "2", "unit": "medium"},
+        {"name": "mustard seeds", "amount": "1", "unit": "tsp"},
+        {"name": "curry leaves", "amount": "10", "unit": "pieces"},
+        {"name": "turmeric", "amount": "0.5", "unit": "tsp"},
+        {"name": "green chilies", "amount": "3", "unit": "pieces"},
+        {"name": "oil", "amount": "4", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Soak rice and urad dal separately for 4-6 hours",
+        "Grind to smooth batter, ferment overnight",
+        "Boil potatoes, mash coarsely and season",
+        "Heat oil, add mustard seeds and curry leaves",
+        "Add onions, green chilies, and turmeric",
+        "Add mashed potatoes and mix well",
+        "Heat pan, spread batter thin to make crepe",
+        "Add filling and fold the dosa",
+        "Serve hot with sambar and chutney"
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 12,
+        "carbs": 65,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 420
+      },
+      "tips": [
+        "Ferment batter in warm place for 8-12 hours",
+        "Use non-stick pan for easy spreading"
+      ],
+      "substitutions": [
+        {"ingredient": "urad dal", "substitute": "moong dal for variation"}
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Biryani Rice",
+      "description": "Fragrant basmati rice cooked with whole spices and saffron",
+      "image": "https://www.madhuseverydayindian.com/wp-content/uploads/2022/11/veg-biryani.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 45,
+      "servings": 6,
+      "dietary": ["Vegetarian", "Vegan"],
+      "ingredients": [
+        {"name": "basmati rice", "amount": "2", "unit": "cups"},
+        {"name": "bay leaves", "amount": "3", "unit": "pieces"},
+        {"name": "cardamom", "amount": "4", "unit": "pieces"},
+        {"name": "cinnamon", "amount": "2", "unit": "pieces"},
+        {"name": "cloves", "amount": "4", "unit": "pieces"},
+        {"name": "saffron", "amount": "1", "unit": "pinch"},
+        {"name": "milk", "amount": "2", "unit": "tbsp"},
+        {"name": "ghee", "amount": "3", "unit": "tbsp"},
+        {"name": "salt", "amount": "1", "unit": "tsp"},
+        {"name": "water", "amount": "4", "unit": "cups"}
+      ],
+      "instructions": [
+        "Soak basmati rice for 30 minutes",
+        "Soak saffron in warm milk",
+        "Heat water in large pot with whole spices and salt",
+        "Add soaked rice to boiling water",
+        "Cook until 70% done, drain immediately",
+        "Layer rice in heavy-bottomed pot",
+        "Sprinkle saffron milk and ghee",
+        "Cover and cook on high for 2 minutes",
+        "Reduce heat and cook for 30 minutes"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 6,
+        "carbs": 58,
+        "fat": 4,
+        "fiber": 1,
+        "sugar": 0,
+        "sodium": 380
+      },
+      "tips": [
+        "Don't overcook rice - it should be al dente",
+        "Use aged basmati for best aroma"
+      ],
+      "substitutions": [
+        {"ingredient": "ghee", "substitute": "oil for vegan version"}
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Fish Curry",
+      "description": "Coastal style fish curry in coconut milk with curry leaves and spices",
+      "image": "https://www.thedeliciouscrescent.com/wp-content/uploads/2023/07/Fish-Curry-3.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 30,
+      "servings": 4,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "fish fillets", "amount": "500", "unit": "g"},
+        {"name": "coconut milk", "amount": "1", "unit": "can"},
+        {"name": "onions", "amount": "1", "unit": "large"},
+        {"name": "tomatoes", "amount": "2", "unit": "medium"},
+        {"name": "curry leaves", "amount": "15", "unit": "pieces"},
+        {"name": "green chilies", "amount": "3", "unit": "pieces"},
+        {"name": "turmeric", "amount": "1", "unit": "tsp"},
+        {"name": "coriander powder", "amount": "2", "unit": "tsp"},
+        {"name": "tamarind paste", "amount": "1", "unit": "tbsp"},
+        {"name": "mustard oil", "amount": "2", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Marinate fish with turmeric and salt",
+        "Heat oil and lightly fry fish pieces",
+        "In same pan, add curry leaves and green chilies",
+        "Add diced onions and cook until soft",
+        "Add tomatoes and cook until they break down",
+        "Add coriander powder and cook for 1 minute",
+        "Add coconut milk and bring to gentle boil",
+        "Add fried fish and tamarind paste",
+        "Simmer for 10 minutes and serve with rice"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 28,
+        "carbs": 12,
+        "fat": 20,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 450
+      },
+      "tips": [
+        "Don't overcook fish to prevent breaking",
+        "Use thick coconut milk for richer curry"
+      ],
+      "substitutions": [
+        {"ingredient": "fish", "substitute": "prawns or chicken"}
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Aloo Paratha",
+      "description": "Stuffed flatbread with spiced potato filling, perfect for breakfast",
+      "image": "https://www.cookwithkushi.com/wp-content/uploads/2021/03/Best_aloo_paratha_mashed_potato_flatbread.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 40,
+      "servings": 6,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "whole wheat flour", "amount": "2", "unit": "cups"},
+        {"name": "potatoes", "amount": "4", "unit": "large"},
+        {"name": "green chilies", "amount": "2", "unit": "pieces"},
+        {"name": "ginger", "amount": "1", "unit": "inch"},
+        {"name": "cumin powder", "amount": "1", "unit": "tsp"},
+        {"name": "coriander leaves", "amount": "0.25", "unit": "cup"},
+        {"name": "red chili powder", "amount": "0.5", "unit": "tsp"},
+        {"name": "ghee", "amount": "4", "unit": "tbsp"},
+        {"name": "salt", "amount": "1", "unit": "tsp"},
+        {"name": "carom seeds", "amount": "0.5", "unit": "tsp"}
+      ],
+      "instructions": [
+        "Make soft dough with flour, salt, and water",
+        "Boil and mash potatoes completely",
+        "Mix mashed potatoes with all spices and herbs",
+        "Divide dough into portions",
+        "Roll out, add filling, and seal edges",
+        "Roll gently to flatten the stuffed ball",
+        "Cook on hot griddle with ghee",
+        "Cook both sides until golden brown spots appear",
+        "Serve hot with yogurt and pickle"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 8,
+        "carbs": 58,
+        "fat": 8,
+        "fiber": 6,
+        "sugar": 3,
+        "sodium": 420
+      },
+      "tips": [
+        "Keep filling dry to prevent tearing",
+        "Cook on medium heat for even cooking"
+      ],
+      "substitutions": [
+        {"ingredient": "potatoes", "substitute": "cauliflower or radish"}
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Mutton Curry",
+      "description": "Slow-cooked tender mutton in rich and spicy gravy",
+      "image": "http://spicyworld.in/recipeimages/punjabi-mutton-curry.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 90,
+      "servings": 6,
+      "dietary": ["High-Protein"],
+      "ingredients": [
+        {"name": "mutton", "amount": "1", "unit": "kg"},
+        {"name": "onions", "amount": "4", "unit": "large"},
+        {"name": "yogurt", "amount": "0.5", "unit": "cup"},
+        {"name": "garlic", "amount": "10", "unit": "cloves"},
+        {"name": "ginger", "amount": "2", "unit": "inch"},
+        {"name": "red chili powder", "amount": "2", "unit": "tbsp"},
+        {"name": "coriander powder", "amount": "1", "unit": "tbsp"},
+        {"name": "garam masala", "amount": "2", "unit": "tsp"},
+        {"name": "bay leaves", "amount": "3", "unit": "pieces"},
+        {"name": "ghee", "amount": "4", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Cut mutton into medium pieces",
+        "Deep fry onions until golden brown and crispy",
+        "Grind half the fried onions to paste",
+        "Heat ghee and add bay leaves",
+        "Add mutton pieces and cook on high heat",
+        "Add ginger-garlic paste and cook for 5 minutes",
+        "Add onion paste and all spices",
+        "Add yogurt and cook until oil separates",
+        "Add water and cook covered for 1 hour until tender",
+        "Garnish with remaining fried onions"
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 42,
+        "carbs": 12,
+        "fat": 28,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 520
+      },
+      "tips": [
+        "Cook on low heat for tender meat",
+        "Add hot water if more gravy is needed"
+      ],
+      "substitutions": [
+        {"ingredient": "mutton", "substitute": "lamb or goat meat"}
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Pani Puri",
+      "description": "Popular street snack with crispy shells filled with spiced water",
+      "image": "https://cdn2.foodviva.com/static-content/food-images/snacks-recipes/pani-puri/pani-puri.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 45,
+      "servings": 4,
+      "dietary": ["Vegetarian", "Vegan"],
+      "ingredients": [
+        {"name": "semolina", "amount": "1", "unit": "cup"},
+        {"name": "all-purpose flour", "amount": "2", "unit": "tbsp"},
+        {"name": "chickpeas", "amount": "0.5", "unit": "cup"},
+        {"name": "potatoes", "amount": "2", "unit": "medium"},
+        {"name": "tamarind paste", "amount": "2", "unit": "tbsp"},
+        {"name": "mint leaves", "amount": "0.5", "unit": "cup"},
+        {"name": "cilantro", "amount": "0.5", "unit": "cup"},
+        {"name": "chaat masala", "amount": "1", "unit": "tsp"},
+        {"name": "black salt", "amount": "1", "unit": "tsp"},
+        {"name": "green chilies", "amount": "3", "unit": "pieces"}
+      ],
+      "instructions": [
+        "Make stiff dough with semolina and flour",
+        "Roll very thin and cut into small circles",
+        "Deep fry until puffed and golden",
+        "Boil chickpeas and potatoes separately",
+        "Blend mint, cilantro, and green chilies with water",
+        "Add tamarind paste, chaat masala, and salt to mint water",
+        "Make small hole in each puri",
+        "Fill with chickpeas and potato",
+        "Pour flavored water and eat immediately"
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 8,
+        "carbs": 42,
+        "fat": 4,
+        "fiber": 6,
+        "sugar": 8,
+        "sodium": 680
+      },
+      "tips": [
+        "Puris should be very crispy",
+        "Eat immediately after filling"
+      ],
+      "substitutions": [
+        {"ingredient": "semolina", "substitute": "wheat flour"}
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Malai Kofta",
+      "description": "Deep-fried paneer and potato dumplings in rich creamy gravy",
+      "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Sofyt-creamy-Malai-Kofta-recipe.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 60,
+      "servings": 4,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "paneer", "amount": "200", "unit": "g"},
+        {"name": "potatoes", "amount": "2", "unit": "medium"},
+        {"name": "cashews", "amount": "0.25", "unit": "cup"},
+        {"name": "onions", "amount": "2", "unit": "large"},
+        {"name": "tomatoes", "amount": "3", "unit": "medium"},
+        {"name": "heavy cream", "amount": "0.5", "unit": "cup"},
+        {"name": "garam masala", "amount": "1", "unit": "tsp"},
+        {"name": "cornflour", "amount": "2", "unit": "tbsp"},
+        {"name": "ginger garlic paste", "amount": "1", "unit": "tbsp"},
+        {"name": "oil for frying", "amount": "2", "unit": "cups"}
+      ],
+      "instructions": [
+        "Boil and mash potatoes, grate paneer",
+        "Mix paneer, potatoes, and cornflour",
+        "Form into small balls and deep fry",
+        "Fry onions and cashews until golden",
+        "Blend with water to smooth paste",
+        "Cook tomatoes until soft, blend separately",
+        "Heat oil, add ginger-garlic paste",
+        "Add onion paste and tomato puree",
+        "Add cream and garam masala",
+        "Add koftas just before serving"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 16,
+        "carbs": 32,
+        "fat": 26,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 520
+      },
+      "tips": [
+        "Don't add koftas too early or they'll break",
+        "Fry koftas on medium heat"
+      ],
+      "substitutions": [
+        {"ingredient": "paneer", "substitute": "ricotta cheese"}
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Chole Bhature",
+      "description": "Spicy chickpea curry served with deep-fried fluffy bread",
+      "image": "https://i0.wp.com/tanibistro.com/wp-content/uploads/2024/09/Chhole-Bhatura-1.png?fit=500%2C500&ssl=1",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 90,
+      "servings": 4,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "chickpeas", "amount": "1", "unit": "cup"},
+        {"name": "all-purpose flour", "amount": "2", "unit": "cups"},
+        {"name": "yogurt", "amount": "0.25", "unit": "cup"},
+        {"name": "onions", "amount": "2", "unit": "large"},
+        {"name": "tomatoes", "amount": "3", "unit": "medium"},
+        {"name": "chole masala", "amount": "2", "unit": "tbsp"},
+        {"name": "baking powder", "amount": "1", "unit": "tsp"},
+        {"name": "tea bags", "amount": "2", "unit": "pieces"},
+        {"name": "ginger garlic paste", "amount": "1", "unit": "tbsp"},
+        {"name": "oil", "amount": "4", "unit": "tbsp"}
+      ],
+      "instructions": [
+        "Soak chickpeas overnight with tea bags",
+        "Pressure cook chickpeas until very soft",
+        "Make bhature dough with flour, yogurt, and baking powder",
+        "Rest dough for 2 hours",
+        "Heat oil and fry onions until golden",
+        "Add ginger-garlic paste and tomatoes",
+        "Add chole masala and cooked chickpeas",
+        "Simmer for 20 minutes",
+        "Roll bhature and deep fry until puffed",
+        "Serve hot chole with fresh bhature"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 16,
+        "carbs": 72,
+        "fat": 18,
+        "fiber": 12,
+        "sugar": 8,
+        "sodium": 680
+      },
+      "tips": [
+        "Tea bags give chickpeas dark color",
+        "Roll bhature thin for better puffing"
+      ],
+      "substitutions": [
+        {"ingredient": "chole masala", "substitute": "garam masala with extra spices"}
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Kheer (Rice Pudding)",
+      "description": "Traditional Indian dessert made with rice, milk, and sugar",
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2017/06/Indian-Rice-Kheer.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Easy",
+      "cookingTime": 45,
+      "servings": 6,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "basmati rice", "amount": "0.5", "unit": "cup"},
+        {"name": "whole milk", "amount": "1", "unit": "liter"},
+        {"name": "sugar", "amount": "0.5", "unit": "cup"},
+        {"name": "cardamom", "amount": "4", "unit": "pieces"},
+        {"name": "almonds", "amount": "10", "unit": "pieces"},
+        {"name": "pistachios", "amount": "10", "unit": "pieces"},
+        {"name": "raisins", "amount": "2", "unit": "tbsp"},
+        {"name": "saffron", "amount": "1", "unit": "pinch"},
+        {"name": "ghee", "amount": "1", "unit": "tbsp"},
+        {"name": "rose water", "amount": "1", "unit": "tsp"}
+      ],
+      "instructions": [
+        "Wash and soak rice for 30 minutes",
+        "Boil milk in heavy-bottomed pan",
+        "Add drained rice and cook on low heat",
+        "Stir frequently to prevent sticking",
+        "Cook until rice is completely soft and milk thickens",
+        "Add sugar and cardamom powder",
+        "Fry nuts in ghee and add to kheer",
+        "Add saffron soaked in warm milk",
+        "Cook for 5 more minutes",
+        "Add rose water and serve hot or cold"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 8,
+        "carbs": 42,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 32,
+        "sodium": 85
+      },
+      "tips": [
+        "Stir continuously to prevent burning",
+        "Consistency should be creamy, not thick"
+      ],
+      "substitutions": [
+        {"ingredient": "sugar", "substitute": "jaggery for healthier option"}
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Pav Bhaji",
+      "description": "Spicy mixed vegetable curry served with buttered bread rolls",
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=400&h=300&fit=crop",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "cookingTime": 40,
+      "servings": 4,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "pav bread", "amount": "8", "unit": "pieces"},
+        {"name": "potatoes", "amount": "3", "unit": "large"},
+        {"name": "cauliflower", "amount": "1", "unit": "small head"},
+        {"name": "peas", "amount": "0.5", "unit": "cup"},
+        {"name": "onions", "amount": "2", "unit": "large"},
+        {"name": "tomatoes", "amount": "3", "unit": "large"},
+        {"name": "pav bhaji masala", "amount": "3", "unit": "tbsp"},
+        {"name": "butter", "amount": "4", "unit": "tbsp"},
+        {"name": "ginger garlic paste", "amount": "1", "unit": "tbsp"},
+        {"name": "lemon", "amount": "1", "unit": "piece"}
+      ],
+      "instructions": [
+        "Boil and mash all vegetables coarsely",
+        "Heat butter and sauté diced onions",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Add tomatoes and cook until soft",
+        "Add pav bhaji masala and cook for 2 minutes",
+        "Add mashed vegetables and mix well",
+        "Cook for 15 minutes, mashing occasionally",
+        "Adjust consistency with water",
+        "Slit and butter pav, toast on griddle",
+        "Serve bhaji hot with buttered pav and lemon"
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 12,
+        "carbs": 58,
+        "fat": 12,
+        "fiber": 8,
+        "sugar": 12,
+        "sodium": 720
+      },
+      "tips": [
+        "Mash vegetables while cooking for better texture",
+        "Use plenty of butter for authentic taste"
+      ],
+      "substitutions": [
+        {"ingredient": "pav bread", "substitute": "dinner rolls"}
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Gulab Jamun",
+      "description": "Sweet dumplings soaked in rose-flavored sugar syrup",
+      "image": "https://www.foodie-trail.com/wp-content/uploads/2020/04/PHOTO-2022-02-12-20-04-41_1.jpg",
+      "cuisine": "Indian",
+      "difficulty": "Hard",
+      "cookingTime": 60,
+      "servings": 8,
+      "dietary": ["Vegetarian"],
+      "ingredients": [
+        {"name": "milk powder", "amount": "1", "unit": "cup"},
+        {"name": "all-purpose flour", "amount": "2", "unit": "tbsp"},
+        {"name": "ghee", "amount": "1", "unit": "tbsp"},
+        {"name": "milk", "amount": "3", "unit": "tbsp"},
+        {"name": "sugar", "amount": "1", "unit": "cup"},
+        {"name": "water", "amount": "1", "unit": "cup"},
+        {"name": "cardamom", "amount": "3", "unit": "pieces"},
+        {"name": "rose water", "amount": "1", "unit": "tsp"},
+        {"name": "oil for frying", "amount": "2", "unit": "cups"},
+        {"name": "baking soda", "amount": "1", "unit": "pinch"}
+      ],
+      "instructions": [
+        "Mix milk powder, flour, and baking soda",
+        "Add ghee and milk to form soft dough",
+        "Rest dough for 15 minutes",
+        "Make sugar syrup with water, sugar, and cardamom",
+        "Add rose water to cooled syrup",
+        "Shape dough into small smooth balls",
+        "Heat oil to medium temperature",
+        "Fry balls until golden brown evenly",
+        "Immediately put hot gulab jamuns in warm syrup",
+        "Let them soak for at least 2 hours before serving"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 6,
+        "carbs": 45,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 42,
+        "sodium": 65
+      },
+      "tips": [
+        "Oil temperature should be medium, not hot",
+        "Balls should be completely smooth without cracks"
+      ],
+      "substitutions": [
+        {"ingredient": "milk powder", "substitute": "khoya/mawa if available"}
+      ]
+    }
+  ]
+}
