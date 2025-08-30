@@ -238,7 +238,7 @@ export const PERFORMANCE = {
   THROTTLE_DELAY: 100
 };
 
-export default {
+const constants = {
   DIETARY_OPTIONS,
   DIFFICULTY_OPTIONS,
   CUISINE_OPTIONS,
@@ -251,3 +251,5 @@ export default {
   FEATURES,
   APP_CONFIG
 };
+
+export default constants;
