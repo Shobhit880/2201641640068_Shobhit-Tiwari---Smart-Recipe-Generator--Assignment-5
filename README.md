@@ -30,4 +30,7 @@ A modern React application that suggests recipes based on available ingredients.
 - **Image Processing**: Mock API implementation prepared for real AI and machine learning integration
 - **Deployment**: Netlify with an optimized build configuration
 
+Deployment (Netlify)- https://shobhit-smart-recipe-generator.netlify.app/
+
+
 ## Project Structure
